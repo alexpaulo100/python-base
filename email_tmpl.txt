@@ -1,0 +1,6 @@
+Olá, %{nome}
+Tem interesse em comprar %{produto}s?
+Este produto é ótimo para resolver %{texto}
+Clique agora em %{link}
+Apenas %{quantidade} disponiveis!
+Preço promocional %{preco}

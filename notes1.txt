@@ -1,0 +1,3 @@
+Minha primeira Nota	geral	Minha primeira nota geral
+Minha segunda Nota	tecnologia	Python é muito divertido.
+Python	Repeticoes	"For e While para repetir"
